@@ -1,2 +1,2 @@
-# MeuPrimeiroSite
-Repositorio destinado ao aprendizado basico de HTML e CSS.
+# MeuPrimeiroSite_2025_1C_TurmaA
+Repositório destinado ao aprendizado básico de html e css
